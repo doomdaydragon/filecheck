@@ -24,18 +24,13 @@ Installation
 - chmod +x filecheck.sh
 
 Usage:
-	./filecheck.sh <file_or_directory>
+- 	./filecheck.sh <file_or_directory>
 
 Example:
-	./fiecheck.sh /etc/passwd
-	./filecheck.sh /bin/bash
-	./filecheck.sh non_existing_file
+- 	./fiecheck.sh /etc/passwd
+- 	./filecheck.sh /bin/bash
+- 	./filecheck.sh non_existing_file
 
-Exit Codes
 
-Code	Meaning
-0	Success
-1	Missing Parameter or Target not found
-
-Author
-Alp Arslan
+Author:
+~Doom Day Dragon~
