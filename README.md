@@ -19,7 +19,7 @@ Features
 
 Installation
 
-git clone <repo_url>
+git clone https://github.com/doomdaydragon/filecheck.git
 cd filecheck
 chmod +x filecheck.sh
 
