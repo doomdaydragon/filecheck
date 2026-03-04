@@ -33,4 +33,4 @@ Example:
 
 
 Author:
-~Doom Day Dragon~
+*Doom Day Dragon*
