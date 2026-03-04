@@ -19,17 +19,17 @@ Features
 
 Installation
 
-git clone https://github.com/doomdaydragon/filecheck.git
-cd filecheck
-chmod +x filecheck.sh
+- git clone https://github.com/doomdaydragon/filecheck.git
+- cd filecheck
+- chmod +x filecheck.sh
 
-Usage
-./filecheck.sh <file_or_directory>
+Usage:
+	./filecheck.sh <file_or_directory>
 
-Example
-./fiecheck.sh /etc/passwd
-./filecheck.sh /bin/bash
-./filecheck.sh non_existing_file
+Example:
+	./fiecheck.sh /etc/passwd
+	./filecheck.sh /bin/bash
+	./filecheck.sh non_existing_file
 
 Exit Codes
 
